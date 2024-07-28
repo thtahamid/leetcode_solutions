@@ -1,57 +1,35 @@
 class Solution:
-
     def secondMinimum(self, n: int, edges: List[List[int]], time: int, change: int) -> int:
-
-        g = [[] for _ in range(n + 1)]
-
+        # Create the graph using a defaultdict of lists
+        g = defaultdict(list)
         for u, v in edges:
-
             g[u].append(v)
-
             g[v].append(u)
 
+        # Priority queue for Dijkstra's algorithm
+        q = []
+        heapq.heappush(q, (0, 1))  # (time, node)
         
-
-        q = deque([(1, 1)])
-
-        dist1 = [-1] * (n + 1)
-
-        dist2 = [-1] * (n + 1)
-
-        dist1[1] = 0
-
+        uniqueVisit = [0] * (n + 1)  # To track the number of unique visits
+        dis = [-1] * (n + 1)  # To store the minimum time to reach each node
+        
         while q:
-
-            x, freq = q.popleft()
-
-            t = dist1[x] if freq == 1 else dist2[x]
-
-            if (t // change) % 2:
-
-                t = change * (t // change + 1) + time
-
-            else:
-
-                t += time
-
-            for y in g[x]:
-
-                if dist1[y] == -1:
-
-                    dist1[y] = t
-
-                    q.append((y, 1))
-
-                elif dist2[y] == -1 and dist1[y] != t:
-
-                    if y == n:
-
-                        return t
-
-                    dist2[y] = t
-
-                    q.append((y, 2))
-
-        return 0
-
-              
+            t, node = heapq.heappop(q)  # Get the node with the smallest time
+            
+            if dis[node] == t or uniqueVisit[node] >= 2:
+                continue  # Skip if already visited or relaxed twice
+            
+            uniqueVisit[node] += 1
+            dis[node] = t
+            
+            if node == n and uniqueVisit[node] == 2:
+                return dis[node]
+            
+            # Calculate the leaving time (waiting for the green light)
+            if (t // change) % 2 != 0:
+                t = (t // change + 1) * change
+            
+            for nei in g[node]:
+                heapq.heappush(q, (t + time, nei))
+        
+        return -1
