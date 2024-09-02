@@ -1,7 +1,17 @@
 class Solution:
     def chalkReplacer(self, chalk: List[int], k: int) -> int:
-        for i in range(1, len(chalk)):
-            chalk[i]+=chalk[i-1]
-        k%=chalk[-1]
-        return bisect.bisect_right(chalk, k)
         
+        n_chalk = sum(chalk)
+
+        remainder = k % n_chalk
+
+        n_chalk_used = 0
+        for i in range(len(chalk)):
+
+            n_chalk_used += chalk[i] 
+
+            if n_chalk_used > remainder:
+                
+                return i
+
+                  
