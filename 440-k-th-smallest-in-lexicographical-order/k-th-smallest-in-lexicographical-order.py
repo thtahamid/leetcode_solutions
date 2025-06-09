@@ -1,21 +1,27 @@
-class Solution:
-    def getReqNum(self, a, b, n):
-        gap = 0
-        while a <= n:
-            gap += min(n + 1, b) - a
-            a *= 10
-            b *= 10
-        return gap
+class Solution(object):
+    def findKthNumber(self, n, k):
+        curr = 1
+        k -= 1
 
-    def findKthNumber(self, n: int, k: int) -> int:
-        num = 1
-        i = 1
-        while i < k:
-            req = self.getReqNum(num, num + 1, n)
-            if i + req <= k:
-                i += req
-                num += 1
+        while k > 0:
+            step = self._count_steps(n, curr, curr + 1)
+            # If the steps are less than or equal to k, we skip this prefix's subtree
+            if step <= k:
+                # Move to the next prefix and decrease k by the number of steps we skip
+                curr += 1
+                k -= step
             else:
-                i += 1
-                num *= 10
-        return num
+                # Move to the next level of the tree and decrement k by 1
+                curr *= 10
+                k -= 1
+
+        return curr
+
+    # To count how many numbers exist between prefix1 and prefix2
+    def _count_steps(self, n, prefix1, prefix2):
+        steps = 0
+        while prefix1 <= n:
+            steps += min(n + 1, prefix2) - prefix1
+            prefix1 *= 10
+            prefix2 *= 10
+        return steps
