@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/fruits-into-baskets-ii">3790. Fruits Into Baskets II</a></h2><h3>Easy</h3><hr><p>You are given two arrays of integers, <code>fruits</code> and <code>baskets</code>, each of length <code>n</code>, where <code>fruits[i]</code> represents the <strong>quantity</strong> of the <code>i<sup>th</sup></code> type of fruit, and <code>baskets[j]</code> represents the <strong>capacity</strong> of the <code>j<sup>th</sup></code> basket.</p>
+<h2><a href="https://leetcode.com/problems/fruits-into-baskets-ii">Fruits Into Baskets II</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given two arrays of integers, <code>fruits</code> and <code>baskets</code>, each of length <code>n</code>, where <code>fruits[i]</code> represents the <strong>quantity</strong> of the <code>i<sup>th</sup></code> type of fruit, and <code>baskets[j]</code> represents the <strong>capacity</strong> of the <code>j<sup>th</sup></code> basket.</p>
 
 <p>From left to right, place the fruits according to these rules:</p>
 
