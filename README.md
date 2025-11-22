@@ -8,6 +8,7 @@
 | ------- |
 | [0717-1-bit-and-2-bit-characters](https://github.com/thtahamid/leetcode_solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/thtahamid/leetcode_solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/thtahamid/leetcode_solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3790-fruits-into-baskets-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
@@ -47,4 +48,8 @@
 |  |
 | ------- |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/thtahamid/leetcode_solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
+## Math
+|  |
+| ------- |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/thtahamid/leetcode_solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 <!---LeetCode Topics End-->
