@@ -75,4 +75,12 @@
 |  |
 | ------- |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/thtahamid/leetcode_solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+## Tree
+|  |
+| ------- |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/thtahamid/leetcode_solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
+## Depth-First Search
+|  |
+| ------- |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/thtahamid/leetcode_solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
 <!---LeetCode Topics End-->
