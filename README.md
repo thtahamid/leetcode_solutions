@@ -10,6 +10,7 @@
 | [1018-binary-prefix-divisible-by-5](https://github.com/thtahamid/leetcode_solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/thtahamid/leetcode_solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1590-make-sum-divisible-by-p](https://github.com/thtahamid/leetcode_solutions/tree/master/1590-make-sum-divisible-by-p) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/thtahamid/leetcode_solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/thtahamid/leetcode_solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/thtahamid/leetcode_solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/thtahamid/leetcode_solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -19,6 +20,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [2141-maximum-running-time-of-n-computers](https://github.com/thtahamid/leetcode_solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3790-fruits-into-baskets-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Segment Tree
 |  |
@@ -45,6 +47,7 @@
 |  |
 | ------- |
 | [1262-greatest-sum-divisible-by-three](https://github.com/thtahamid/leetcode_solutions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/thtahamid/leetcode_solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/thtahamid/leetcode_solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## String
 |  |
@@ -76,6 +79,7 @@
 |  |
 | ------- |
 | [1262-greatest-sum-divisible-by-three](https://github.com/thtahamid/leetcode_solutions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/thtahamid/leetcode_solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Matrix
 |  |
 | ------- |
