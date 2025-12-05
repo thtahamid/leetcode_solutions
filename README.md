@@ -15,6 +15,7 @@
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/thtahamid/leetcode_solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/thtahamid/leetcode_solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/thtahamid/leetcode_solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/thtahamid/leetcode_solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/thtahamid/leetcode_solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/thtahamid/leetcode_solutions/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -70,11 +71,13 @@
 | [1590-make-sum-divisible-by-p](https://github.com/thtahamid/leetcode_solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/thtahamid/leetcode_solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/thtahamid/leetcode_solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/thtahamid/leetcode_solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Math
 |  |
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/thtahamid/leetcode_solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/thtahamid/leetcode_solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/thtahamid/leetcode_solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/thtahamid/leetcode_solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/thtahamid/leetcode_solutions/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/3625-count-number-of-trapezoids-ii) |
