@@ -8,6 +8,7 @@
 | ------- |
 | [0717-1-bit-and-2-bit-characters](https://github.com/thtahamid/leetcode_solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0944-delete-columns-to-make-sorted](https://github.com/thtahamid/leetcode_solutions/tree/master/0944-delete-columns-to-make-sorted) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/thtahamid/leetcode_solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/thtahamid/leetcode_solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1590-make-sum-divisible-by-p](https://github.com/thtahamid/leetcode_solutions/tree/master/1590-make-sum-divisible-by-p) |
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/thtahamid/leetcode_solutions/tree/master/0944-delete-columns-to-make-sorted) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/thtahamid/leetcode_solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/thtahamid/leetcode_solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/thtahamid/leetcode_solutions/tree/master/2211-count-collisions-on-a-road) |
@@ -124,6 +126,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/thtahamid/leetcode_solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/thtahamid/leetcode_solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Matrix
