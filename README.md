@@ -11,6 +11,7 @@
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/thtahamid/leetcode_solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/thtahamid/leetcode_solutions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/thtahamid/leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/thtahamid/leetcode_solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [2054-two-best-non-overlapping-events](https://github.com/thtahamid/leetcode_solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/thtahamid/leetcode_solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -39,6 +40,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/thtahamid/leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2054-two-best-non-overlapping-events](https://github.com/thtahamid/leetcode_solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/thtahamid/leetcode_solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3790-fruits-into-baskets-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
@@ -148,6 +150,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/thtahamid/leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/thtahamid/leetcode_solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Tree
 |  |
