@@ -18,6 +18,7 @@
 | [1390-four-divisors](https://github.com/thtahamid/leetcode_solutions/tree/master/1390-four-divisors) |
 | [1590-make-sum-divisible-by-p](https://github.com/thtahamid/leetcode_solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/thtahamid/leetcode_solutions/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/thtahamid/leetcode_solutions/tree/master/1975-maximum-matrix-sum) |
 | [2054-two-best-non-overlapping-events](https://github.com/thtahamid/leetcode_solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/thtahamid/leetcode_solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/thtahamid/leetcode_solutions/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -159,6 +160,7 @@
 | ------- |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/thtahamid/leetcode_solutions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1975-maximum-matrix-sum](https://github.com/thtahamid/leetcode_solutions/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/thtahamid/leetcode_solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3074-apple-redistribution-into-boxes](https://github.com/thtahamid/leetcode_solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/thtahamid/leetcode_solutions/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -168,6 +170,7 @@
 | [0840-magic-squares-in-grid](https://github.com/thtahamid/leetcode_solutions/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/thtahamid/leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/thtahamid/leetcode_solutions/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/thtahamid/leetcode_solutions/tree/master/1975-maximum-matrix-sum) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/thtahamid/leetcode_solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Tree
 |  |
