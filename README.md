@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/thtahamid/leetcode_solutions/tree/master/0066-plus-one) |
+| [0085-maximal-rectangle](https://github.com/thtahamid/leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/thtahamid/leetcode_solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0840-magic-squares-in-grid](https://github.com/thtahamid/leetcode_solutions/tree/master/0840-magic-squares-in-grid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/thtahamid/leetcode_solutions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -149,6 +150,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/thtahamid/leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/thtahamid/leetcode_solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/thtahamid/leetcode_solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/thtahamid/leetcode_solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -172,6 +174,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/thtahamid/leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/thtahamid/leetcode_solutions/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/thtahamid/leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/thtahamid/leetcode_solutions/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -203,6 +206,7 @@
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/thtahamid/leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [2211-count-collisions-on-a-road](https://github.com/thtahamid/leetcode_solutions/tree/master/2211-count-collisions-on-a-road) |
 ## Queue
 |  |
@@ -264,4 +268,8 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/thtahamid/leetcode_solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/thtahamid/leetcode_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/thtahamid/leetcode_solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/thtahamid/leetcode_solutions/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
