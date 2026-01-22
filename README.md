@@ -42,6 +42,7 @@
 | [3433-count-mentions-per-user](https://github.com/thtahamid/leetcode_solutions/tree/master/3433-count-mentions-per-user) |
 | [3453-separate-squares-i](https://github.com/thtahamid/leetcode_solutions/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/3454-separate-squares-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/thtahamid/leetcode_solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/thtahamid/leetcode_solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/thtahamid/leetcode_solutions/tree/master/3531-count-covered-buildings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/thtahamid/leetcode_solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -77,10 +78,12 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/thtahamid/leetcode_solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/thtahamid/leetcode_solutions/tree/master/2402-meeting-rooms-iii) |
 | [3433-count-mentions-per-user](https://github.com/thtahamid/leetcode_solutions/tree/master/3433-count-mentions-per-user) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/thtahamid/leetcode_solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
 | ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/thtahamid/leetcode_solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
@@ -96,6 +99,7 @@
 | [2402-meeting-rooms-iii](https://github.com/thtahamid/leetcode_solutions/tree/master/2402-meeting-rooms-iii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/thtahamid/leetcode_solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/thtahamid/leetcode_solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/thtahamid/leetcode_solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/thtahamid/leetcode_solutions/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/thtahamid/leetcode_solutions/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/thtahamid/leetcode_solutions/tree/master/3606-coupon-code-validator) |
@@ -283,6 +287,7 @@
 | ------- |
 | [2054-two-best-non-overlapping-events](https://github.com/thtahamid/leetcode_solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/thtahamid/leetcode_solutions/tree/master/2402-meeting-rooms-iii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/thtahamid/leetcode_solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -301,4 +306,12 @@
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/3454-separate-squares-ii) |
+## Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/thtahamid/leetcode_solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/thtahamid/leetcode_solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
