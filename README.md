@@ -92,6 +92,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/thtahamid/leetcode_solutions/tree/master/0067-add-binary) |
 | [2211-count-collisions-on-a-road](https://github.com/thtahamid/leetcode_solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/thtahamid/leetcode_solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/thtahamid/leetcode_solutions/tree/master/2402-meeting-rooms-iii) |
@@ -153,6 +154,7 @@
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/thtahamid/leetcode_solutions/tree/master/0067-add-binary) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/thtahamid/leetcode_solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/thtahamid/leetcode_solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/thtahamid/leetcode_solutions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -169,6 +171,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/thtahamid/leetcode_solutions/tree/master/0067-add-binary) |
 | [0756-pyramid-transition-matrix](https://github.com/thtahamid/leetcode_solutions/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/thtahamid/leetcode_solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/thtahamid/leetcode_solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -191,6 +194,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/thtahamid/leetcode_solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/thtahamid/leetcode_solutions/tree/master/0067-add-binary) |
 | [0840-magic-squares-in-grid](https://github.com/thtahamid/leetcode_solutions/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/thtahamid/leetcode_solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/thtahamid/leetcode_solutions/tree/master/1266-minimum-time-visiting-all-points) |
