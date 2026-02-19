@@ -155,6 +155,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/thtahamid/leetcode_solutions/tree/master/0067-add-binary) |
+| [0696-count-binary-substrings](https://github.com/thtahamid/leetcode_solutions/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/thtahamid/leetcode_solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/thtahamid/leetcode_solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/thtahamid/leetcode_solutions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -386,6 +387,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0696-count-binary-substrings](https://github.com/thtahamid/leetcode_solutions/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/thtahamid/leetcode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Graph Theory
 |  |
