@@ -107,6 +107,7 @@
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/thtahamid/leetcode_solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/thtahamid/leetcode_solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3790-fruits-into-baskets-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
@@ -174,6 +175,7 @@
 | [2976-minimum-cost-to-convert-string-i](https://github.com/thtahamid/leetcode_solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3606-coupon-code-validator](https://github.com/thtahamid/leetcode_solutions/tree/master/3606-coupon-code-validator) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/thtahamid/leetcode_solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/thtahamid/leetcode_solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Bit Manipulation
 |  |
@@ -226,6 +228,7 @@
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/thtahamid/leetcode_solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3623-count-number-of-trapezoids-i](https://github.com/thtahamid/leetcode_solutions/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/thtahamid/leetcode_solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -349,6 +352,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/thtahamid/leetcode_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/thtahamid/leetcode_solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/thtahamid/leetcode_solutions/tree/master/2092-find-all-people-with-secret) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/thtahamid/leetcode_solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union Find
 |  |
 | ------- |
@@ -440,4 +444,8 @@
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/thtahamid/leetcode_solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Union-Find
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/thtahamid/leetcode_solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
