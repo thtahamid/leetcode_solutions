@@ -23,6 +23,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/thtahamid/leetcode_solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/thtahamid/leetcode_solutions/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/thtahamid/leetcode_solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/thtahamid/leetcode_solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1590-make-sum-divisible-by-p](https://github.com/thtahamid/leetcode_solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/thtahamid/leetcode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/thtahamid/leetcode_solutions/tree/master/1895-largest-magic-square) |
@@ -259,6 +260,7 @@
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/thtahamid/leetcode_solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1382-balance-a-binary-search-tree](https://github.com/thtahamid/leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/thtahamid/leetcode_solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/thtahamid/leetcode_solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/thtahamid/leetcode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/thtahamid/leetcode_solutions/tree/master/1975-maximum-matrix-sum) |
@@ -272,6 +274,7 @@
 | [0840-magic-squares-in-grid](https://github.com/thtahamid/leetcode_solutions/tree/master/0840-magic-squares-in-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/thtahamid/leetcode_solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/thtahamid/leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/thtahamid/leetcode_solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1895-largest-magic-square](https://github.com/thtahamid/leetcode_solutions/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/thtahamid/leetcode_solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/thtahamid/leetcode_solutions/tree/master/1975-maximum-matrix-sum) |
