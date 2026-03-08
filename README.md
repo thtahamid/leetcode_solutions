@@ -30,6 +30,7 @@
 | [1895-largest-magic-square](https://github.com/thtahamid/leetcode_solutions/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/thtahamid/leetcode_solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/thtahamid/leetcode_solutions/tree/master/1975-maximum-matrix-sum) |
+| [1980-find-unique-binary-string](https://github.com/thtahamid/leetcode_solutions/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/thtahamid/leetcode_solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/thtahamid/leetcode_solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/thtahamid/leetcode_solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -124,6 +125,7 @@
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/thtahamid/leetcode_solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/thtahamid/leetcode_solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/thtahamid/leetcode_solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [1980-find-unique-binary-string](https://github.com/thtahamid/leetcode_solutions/tree/master/1980-find-unique-binary-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/thtahamid/leetcode_solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/thtahamid/leetcode_solutions/tree/master/2402-meeting-rooms-iii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/thtahamid/leetcode_solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -178,6 +180,7 @@
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/thtahamid/leetcode_solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/thtahamid/leetcode_solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/thtahamid/leetcode_solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [1980-find-unique-binary-string](https://github.com/thtahamid/leetcode_solutions/tree/master/1980-find-unique-binary-string) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/thtahamid/leetcode_solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/thtahamid/leetcode_solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/thtahamid/leetcode_solutions/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -393,6 +396,7 @@
 | ------- |
 | [0401-binary-watch](https://github.com/thtahamid/leetcode_solutions/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/thtahamid/leetcode_solutions/tree/master/0756-pyramid-transition-matrix) |
+| [1980-find-unique-binary-string](https://github.com/thtahamid/leetcode_solutions/tree/master/1980-find-unique-binary-string) |
 ## Binary Tree
 |  |
 | ------- |
