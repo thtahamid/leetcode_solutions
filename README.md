@@ -6,6 +6,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/thtahamid/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/thtahamid/leetcode_solutions/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/thtahamid/leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/thtahamid/leetcode_solutions/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -310,6 +311,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/thtahamid/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/thtahamid/leetcode_solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1382-balance-a-binary-search-tree](https://github.com/thtahamid/leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
@@ -491,6 +493,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/thtahamid/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0696-count-binary-substrings](https://github.com/thtahamid/leetcode_solutions/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/thtahamid/leetcode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/thtahamid/leetcode_solutions/tree/master/3643-flip-square-submatrix-vertically) |
