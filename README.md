@@ -87,6 +87,7 @@
 | [3643-flip-square-submatrix-vertically](https://github.com/thtahamid/leetcode_solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/thtahamid/leetcode_solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/thtahamid/leetcode_solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/thtahamid/leetcode_solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3719-longest-balanced-subarray-i](https://github.com/thtahamid/leetcode_solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
@@ -103,6 +104,7 @@
 | [3453-separate-squares-i](https://github.com/thtahamid/leetcode_solutions/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/3454-separate-squares-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/thtahamid/leetcode_solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/thtahamid/leetcode_solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3790-fruits-into-baskets-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Segment Tree
 |  |
@@ -190,6 +192,7 @@
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/thtahamid/leetcode_solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/thtahamid/leetcode_solutions/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/thtahamid/leetcode_solutions/tree/master/3634-minimum-removals-to-balance-array) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/thtahamid/leetcode_solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## String
 |  |
 | ------- |
@@ -313,6 +316,7 @@
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/thtahamid/leetcode_solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3640-trionic-array-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/thtahamid/leetcode_solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/thtahamid/leetcode_solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Greedy
 |  |
 | ------- |
