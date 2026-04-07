@@ -123,6 +123,7 @@
 | [0874-walking-robot-simulation](https://github.com/thtahamid/leetcode_solutions/tree/master/0874-walking-robot-simulation) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/thtahamid/leetcode_solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/thtahamid/leetcode_solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2069-walking-robot-simulation-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/thtahamid/leetcode_solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2211-count-collisions-on-a-road](https://github.com/thtahamid/leetcode_solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/thtahamid/leetcode_solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -569,6 +570,7 @@
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/thtahamid/leetcode_solutions/tree/master/1622-fancy-sequence) |
+| [2069-walking-robot-simulation-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/2069-walking-robot-simulation-ii) |
 ## String Matching
 |  |
 | ------- |
