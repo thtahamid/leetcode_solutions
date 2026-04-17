@@ -99,6 +99,7 @@
 | [3721-longest-balanced-subarray-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/thtahamid/leetcode_solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/thtahamid/leetcode_solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
@@ -185,6 +186,7 @@
 | [3721-longest-balanced-subarray-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/thtahamid/leetcode_solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/thtahamid/leetcode_solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -315,6 +317,7 @@
 | [3623-count-number-of-trapezoids-i](https://github.com/thtahamid/leetcode_solutions/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/thtahamid/leetcode_solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/thtahamid/leetcode_solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
