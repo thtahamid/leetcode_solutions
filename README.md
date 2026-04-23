@@ -51,6 +51,7 @@
 | [2452-words-within-two-edits-of-dictionary](https://github.com/thtahamid/leetcode_solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/thtahamid/leetcode_solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/thtahamid/leetcode_solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2615-sum-of-distances](https://github.com/thtahamid/leetcode_solutions/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/thtahamid/leetcode_solutions/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/thtahamid/leetcode_solutions/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/thtahamid/leetcode_solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -173,6 +174,7 @@
 | [1980-find-unique-binary-string](https://github.com/thtahamid/leetcode_solutions/tree/master/1980-find-unique-binary-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/thtahamid/leetcode_solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/thtahamid/leetcode_solutions/tree/master/2402-meeting-rooms-iii) |
+| [2615-sum-of-distances](https://github.com/thtahamid/leetcode_solutions/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/thtahamid/leetcode_solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -282,6 +284,7 @@
 | [1895-largest-magic-square](https://github.com/thtahamid/leetcode_solutions/tree/master/1895-largest-magic-square) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/thtahamid/leetcode_solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/thtahamid/leetcode_solutions/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2615-sum-of-distances](https://github.com/thtahamid/leetcode_solutions/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/thtahamid/leetcode_solutions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/thtahamid/leetcode_solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/thtahamid/leetcode_solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
