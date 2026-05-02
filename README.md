@@ -317,6 +317,7 @@
 | [0067-add-binary](https://github.com/thtahamid/leetcode_solutions/tree/master/0067-add-binary) |
 | [0396-rotate-function](https://github.com/thtahamid/leetcode_solutions/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/thtahamid/leetcode_solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/thtahamid/leetcode_solutions/tree/master/0788-rotated-digits) |
 | [0840-magic-squares-in-grid](https://github.com/thtahamid/leetcode_solutions/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/thtahamid/leetcode_solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/thtahamid/leetcode_solutions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -349,6 +350,7 @@
 | [0085-maximal-rectangle](https://github.com/thtahamid/leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0396-rotate-function](https://github.com/thtahamid/leetcode_solutions/tree/master/0396-rotate-function) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/thtahamid/leetcode_solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0788-rotated-digits](https://github.com/thtahamid/leetcode_solutions/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/thtahamid/leetcode_solutions/tree/master/0799-champagne-tower) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/thtahamid/leetcode_solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/thtahamid/leetcode_solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
