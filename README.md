@@ -241,6 +241,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/thtahamid/leetcode_solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/thtahamid/leetcode_solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/thtahamid/leetcode_solutions/tree/master/0761-special-binary-string) |
+| [0796-rotate-string](https://github.com/thtahamid/leetcode_solutions/tree/master/0796-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/thtahamid/leetcode_solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/thtahamid/leetcode_solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -645,5 +646,6 @@
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/thtahamid/leetcode_solutions/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/thtahamid/leetcode_solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
