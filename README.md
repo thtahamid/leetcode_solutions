@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/thtahamid/leetcode_solutions/tree/master/0011-container-with-most-water) |
+| [0048-rotate-image](https://github.com/thtahamid/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/thtahamid/leetcode_solutions/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/thtahamid/leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0396-rotate-function](https://github.com/thtahamid/leetcode_solutions/tree/master/0396-rotate-function) |
@@ -314,6 +315,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/thtahamid/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/thtahamid/leetcode_solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/thtahamid/leetcode_solutions/tree/master/0067-add-binary) |
 | [0396-rotate-function](https://github.com/thtahamid/leetcode_solutions/tree/master/0396-rotate-function) |
@@ -399,6 +401,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/thtahamid/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/thtahamid/leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/thtahamid/leetcode_solutions/tree/master/0840-magic-squares-in-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/thtahamid/leetcode_solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
