@@ -570,6 +570,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/thtahamid/leetcode_solutions/tree/master/0061-rotate-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/thtahamid/leetcode_solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Doubly-Linked List
@@ -581,6 +582,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/thtahamid/leetcode_solutions/tree/master/0011-container-with-most-water) |
+| [0061-rotate-list](https://github.com/thtahamid/leetcode_solutions/tree/master/0061-rotate-list) |
 | [0696-count-binary-substrings](https://github.com/thtahamid/leetcode_solutions/tree/master/0696-count-binary-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/thtahamid/leetcode_solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/thtahamid/leetcode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
