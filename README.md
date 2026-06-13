@@ -144,6 +144,7 @@
 | [3742-maximum-path-score-in-a-grid](https://github.com/thtahamid/leetcode_solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/thtahamid/leetcode_solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
+| [3838-weighted-word-mapping](https://github.com/thtahamid/leetcode_solutions/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
 | ------- |
@@ -202,6 +203,7 @@
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/thtahamid/leetcode_solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
+| [3838-weighted-word-mapping](https://github.com/thtahamid/leetcode_solutions/tree/master/3838-weighted-word-mapping) |
 ## Ordered Set
 |  |
 | ------- |
@@ -333,6 +335,7 @@
 | [3606-coupon-code-validator](https://github.com/thtahamid/leetcode_solutions/tree/master/3606-coupon-code-validator) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/thtahamid/leetcode_solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/thtahamid/leetcode_solutions/tree/master/3713-longest-balanced-substring-i) |
+| [3838-weighted-word-mapping](https://github.com/thtahamid/leetcode_solutions/tree/master/3838-weighted-word-mapping) |
 ## Bit Manipulation
 |  |
 | ------- |
