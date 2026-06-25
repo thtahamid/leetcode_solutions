@@ -142,6 +142,7 @@
 | [3691-maximum-total-subarray-value-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/thtahamid/leetcode_solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/thtahamid/leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/thtahamid/leetcode_solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/thtahamid/leetcode_solutions/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -181,6 +182,7 @@
 | [3691-maximum-total-subarray-value-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/thtahamid/leetcode_solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/thtahamid/leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Simulation
 |  |
@@ -257,6 +259,7 @@
 | [3713-longest-balanced-substring-i](https://github.com/thtahamid/leetcode_solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/thtahamid/leetcode_solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/thtahamid/leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/thtahamid/leetcode_solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/thtahamid/leetcode_solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -391,6 +394,7 @@
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/thtahamid/leetcode_solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3719-longest-balanced-subarray-i](https://github.com/thtahamid/leetcode_solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/thtahamid/leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
 | ------- |
@@ -618,6 +622,7 @@
 | [2833-furthest-point-from-origin](https://github.com/thtahamid/leetcode_solutions/tree/master/2833-furthest-point-from-origin) |
 | [3583-count-special-triplets](https://github.com/thtahamid/leetcode_solutions/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/thtahamid/leetcode_solutions/tree/master/3713-longest-balanced-substring-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/thtahamid/leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -744,6 +749,7 @@
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/thtahamid/leetcode_solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/thtahamid/leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -794,4 +800,8 @@
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/thtahamid/leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/thtahamid/leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
