@@ -82,6 +82,7 @@
 | [2751-robot-collisions](https://github.com/thtahamid/leetcode_solutions/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/thtahamid/leetcode_solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/thtahamid/leetcode_solutions/tree/master/2784-check-if-array-is-good) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/thtahamid/leetcode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/thtahamid/leetcode_solutions/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/thtahamid/leetcode_solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/thtahamid/leetcode_solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -166,6 +167,7 @@
 | [2054-two-best-non-overlapping-events](https://github.com/thtahamid/leetcode_solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/thtahamid/leetcode_solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2540-minimum-common-value](https://github.com/thtahamid/leetcode_solutions/tree/master/2540-minimum-common-value) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/thtahamid/leetcode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/thtahamid/leetcode_solutions/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/thtahamid/leetcode_solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/thtahamid/leetcode_solutions/tree/master/3453-separate-squares-i) |
@@ -540,6 +542,7 @@
 | [1975-maximum-matrix-sum](https://github.com/thtahamid/leetcode_solutions/tree/master/1975-maximum-matrix-sum) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/thtahamid/leetcode_solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/thtahamid/leetcode_solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/thtahamid/leetcode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/thtahamid/leetcode_solutions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/thtahamid/leetcode_solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/thtahamid/leetcode_solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -657,6 +660,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/thtahamid/leetcode_solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/thtahamid/leetcode_solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/thtahamid/leetcode_solutions/tree/master/2092-find-all-people-with-secret) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/thtahamid/leetcode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/thtahamid/leetcode_solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/thtahamid/leetcode_solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union Find
@@ -674,6 +678,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/thtahamid/leetcode_solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/thtahamid/leetcode_solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/thtahamid/leetcode_solutions/tree/master/2402-meeting-rooms-iii) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/thtahamid/leetcode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/thtahamid/leetcode_solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/thtahamid/leetcode_solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/thtahamid/leetcode_solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -784,6 +789,7 @@
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/thtahamid/leetcode_solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/thtahamid/leetcode_solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/thtahamid/leetcode_solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/thtahamid/leetcode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/thtahamid/leetcode_solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/thtahamid/leetcode_solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Recursion
